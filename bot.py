@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ConversationHandler
 
-TOKEN = "توکن_دریافتی_از_BotFather"
+TOKEN = "7594464776:AAHhGmXAMKpOF7jpQIHXsjNFFPNrcbFXDaQ"
 
 # مراحل دریافت اطلاعات
 AGE, EDUCATION, INSURANCE, MARITAL = range(4)
